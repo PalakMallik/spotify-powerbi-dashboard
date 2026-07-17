@@ -28,7 +28,7 @@ This Power BI dashboard analyzes Spotify streaming data to uncover trends in art
 
 ## Dashboard Preview
 
-(Add screenshots here)
+
 
 ## Author
 
